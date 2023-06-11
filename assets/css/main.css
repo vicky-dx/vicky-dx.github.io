@@ -29,6 +29,16 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+
+	.click-reveal {
+		cursor: pointer;
+	  }
+	  
+	  /* #revealed-email {
+		margin-top: 20px;
+	  } */
+	  
+	  
 body {
 	line-height: 1;
 }
